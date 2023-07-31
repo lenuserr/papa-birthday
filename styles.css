@@ -5,8 +5,10 @@ body {
 #hero-elbrus {
     text-align: center;
     /*padding-bottom: 870px;*/
+    max-width: 100%;
     padding-bottom: 45%;
     background-image: url("images/elbrus.jpg");
+    background-size: cover;
 }
 
 .header {
