@@ -1,8 +1,16 @@
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+body {
+    margin: 0;
+}
 
-    max-width: 100%;
-    height: auto;
+#hero-elbrus {
+    text-align: center;
+    /*padding-bottom: 870px;*/
+    padding-bottom: 45%;
+    background-image: url("images/elbrus.jpg");
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
