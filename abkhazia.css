@@ -1,0 +1,57 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contain img {
+    max-width: 90%;
+    height: auto;
+    margin-top: 2%;
+    border: 6px solid #EFB0C9;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.three-photo {
+    display: flex;
+    flex-direction: raw;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3%;
+}
+
+#hero-elbrus {
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 45%;
+    background-image: url("images/elbrus.jpg");
+    background-size: cover;
+}
+
+#hero-kabardino-balkarian {
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 45%;
+    background-image: url("images/kabardino-balkarian.jpg");
+    background-size: cover;
+}
+
+#kb-text {
+    margin-top: 2%;
+}
+
+#hero-abkhazia {
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 45%;
+    background-image: url("images/lake-ritsa.jpg");
+    background-size: cover;
+}
+
+#ritsa-text {
+    margin-top: 2%;
+}
