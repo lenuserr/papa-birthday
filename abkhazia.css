@@ -39,10 +39,6 @@
     background-size: cover;
 }
 
-#kb-text {
-    margin-top: 2%;
-}
-
 #hero-abkhazia {
     text-align: center;
     max-width: 100%;
@@ -50,8 +46,4 @@
     padding-bottom: 45%;
     background-image: url("images/lake-ritsa.jpg");
     background-size: cover;
-}
-
-#ritsa-text {
-    margin-top: 2%;
 }
